@@ -6,3 +6,9 @@ This is a simple markdown excercice for complete the GitHub Launchpad
 Nice 😼
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### Running a Django project
+To start the server just type the above in terminal:
+```bash
+  python ./manage.py runserver
+```
