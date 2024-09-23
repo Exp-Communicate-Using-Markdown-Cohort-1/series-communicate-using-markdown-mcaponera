@@ -12,3 +12,7 @@ To start the server just type the above in terminal:
 ```bash
   python ./manage.py runserver
 ```
+## Listing the Lists
+- [x] Turn on Github Pages
+- [ ] Ouline my folio
+- [x] Introduce my self to the people
